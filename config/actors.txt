@@ -3,7 +3,6 @@ Vin Diesel
 Will Smith
 Robert Downey Jr.
 Chris Hemsworth
-Leonardo DiCaprio
 Ryan Reynolds
 Chris Pratt
 Hugh Jackman
@@ -24,7 +23,6 @@ Adam Sandler
 Jake Gyllenhaal
 Logan Lerman
 Nicholas Hoult
-Michael Fassbender
 Casey Affleck
 Liam Hemsworth
 Channing Tatum
